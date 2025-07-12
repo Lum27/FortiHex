@@ -1,7 +1,0 @@
-build:
-  docker:
-    backend: ./backend/Dockerfile
-    frontend: ./frontend/Dockerfile
-run:
-  backend: python app.py
-  frontend: npm start
