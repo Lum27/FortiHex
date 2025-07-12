@@ -1,0 +1,14 @@
+challenges = [
+    {
+        "id": 1,
+        "title": "Basic Brute Force",
+        "description": "Find the correct 3-digit pin",
+        "solution": "321"
+    },
+    {
+        "id": 2,
+        "title": "Simple SQL Injection",
+        "description": "Bypass the login",
+        "solution": "' OR '1'='1"
+    }
+]
